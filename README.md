@@ -1,1 +1,1 @@
-# NANO130KE3BN
+# 艾鍗學院 Cortex M0 練習
