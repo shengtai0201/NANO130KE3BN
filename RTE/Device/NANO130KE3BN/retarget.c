@@ -318,10 +318,10 @@ void SendChar_ToUART(int ch)
 #ifndef DISABLE_UART
     while(DEBUG_PORT->FSR & UART_FSR_TX_FULL_F_Msk);
     DEBUG_PORT->THR = ch;
-    if(ch == '\n') {
-        while(DEBUG_PORT->FSR & UART_FSR_TX_FULL_F_Msk);
-        DEBUG_PORT->THR = '\r';
-    }
+//    if(ch == '\n') {
+//        while(DEBUG_PORT->FSR & UART_FSR_TX_FULL_F_Msk);
+//        DEBUG_PORT->THR = '\r';
+//    }
 #endif
 }
 
