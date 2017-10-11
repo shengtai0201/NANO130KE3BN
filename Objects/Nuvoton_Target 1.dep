@@ -1,0 +1,1001 @@
+Dependencies for Project 'Nuvoton', Target 'Target 1': (DO NOT MODIFY !)
+F (.\main.c)(0x59DB9D5C)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Users\sheng\Documents\MCU\Nuvoton\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\Jansson\1.0.0\src-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include-D__UVISION_VERSION="516" -D_RTE_-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include\Nano100Series.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\core_cm0.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AEF5F2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_version.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_compiler.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_armcc.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include\system_Nano100Series.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\sys.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\clk.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\adc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\dac.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\fmc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\ebi.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\gpio.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\i2c.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\crc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\pdma.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\pwm.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\rtc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\sc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\scuart.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\spi.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\timer.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\uart.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\usbd.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\wdt.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\wwdt.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\i2s.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\lcd.h)(0x58EEEAFC)
+I (default.h)(0x59DBA4B8)
+I (test.h)(0x59DB9CCB)
+I (nano100_timer.h)(0x59BF80FC)
+I (nano100_uart.h)(0x59D39872)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x55AEF5F2)
+I (lcd1602.h)(0x59BF811A)
+I (nano100_adc.h)(0x59BE9966)
+I (nano100_pwm.h)(0x59CFC73A)
+I (nano100_i2c.h)(0x59C1DF28)
+I (button.h)(0x59C121A4)
+I (keypad.h)(0x59C46718)
+I (breathe.h)(0x59C8CD26)
+I (wave.h)(0x59C8CD3E)
+I (step_motor.h)(0x59CFBF3A)
+I (cc2541.h)(0x59DBA18E)
+F (.\test.c)(0x59DBA822)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Users\sheng\Documents\MCU\Nuvoton\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\Jansson\1.0.0\src-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include-D__UVISION_VERSION="516" -D_RTE_-o .\objects\test.o --omf_browse .\objects\test.crf --depend .\objects\test.d)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include\Nano100Series.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\core_cm0.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AEF5F2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_version.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_compiler.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_armcc.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include\system_Nano100Series.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\sys.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\clk.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\adc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\dac.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\fmc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\ebi.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\gpio.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\i2c.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\crc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\pdma.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\pwm.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\rtc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\sc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\scuart.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\spi.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\timer.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\uart.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\usbd.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\wdt.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\wwdt.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\i2s.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\lcd.h)(0x58EEEAFC)
+I (test.h)(0x59DB9CCB)
+I (thermistor.h)(0x59BE99E6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x55AEF5F2)
+I (lcd1602.h)(0x59BF811A)
+I (nano100_pwm.h)(0x59CFC73A)
+I (bh1750.h)(0x59C089BC)
+I (esp8266.h)(0x59D35D94)
+I (default.h)(0x59DBA4B8)
+I (keypad.h)(0x59C46718)
+I (breathe.h)(0x59C8CD26)
+I (wave.h)(0x59C8CD3E)
+I (step_motor.h)(0x59CFBF3A)
+I (cc2541.h)(0x59DBA18E)
+F (.\default.c)(0x59DBA5F2)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Users\sheng\Documents\MCU\Nuvoton\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\Jansson\1.0.0\src-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include-D__UVISION_VERSION="516" -D_RTE_-o .\objects\default.o --omf_browse .\objects\default.crf --depend .\objects\default.d)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include\Nano100Series.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\core_cm0.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AEF5F2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_version.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_compiler.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_armcc.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include\system_Nano100Series.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\sys.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\clk.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\adc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\dac.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\fmc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\ebi.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\gpio.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\i2c.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\crc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\pdma.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\pwm.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\rtc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\sc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\scuart.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\spi.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\timer.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\uart.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\usbd.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\wdt.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\wwdt.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\i2s.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\lcd.h)(0x58EEEAFC)
+I (default.h)(0x59DBA4B8)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x55AEF5F2)
+F (.\nano100_timer.c)(0x59C11D2C)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Users\sheng\Documents\MCU\Nuvoton\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\Jansson\1.0.0\src-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include-D__UVISION_VERSION="516" -D_RTE_-o .\objects\nano100_timer.o --omf_browse .\objects\nano100_timer.crf --depend .\objects\nano100_timer.d)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include\Nano100Series.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\core_cm0.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AEF5F2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_version.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_compiler.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_armcc.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include\system_Nano100Series.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\sys.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\clk.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\adc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\dac.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\fmc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\ebi.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\gpio.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\i2c.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\crc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\pdma.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\pwm.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\rtc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\sc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\scuart.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\spi.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\timer.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\uart.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\usbd.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\wdt.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\wwdt.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\i2s.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\lcd.h)(0x58EEEAFC)
+I (nano100_timer.h)(0x59BF80FC)
+F (.\nano100_uart.c)(0x59D39855)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Users\sheng\Documents\MCU\Nuvoton\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\Jansson\1.0.0\src-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include-D__UVISION_VERSION="516" -D_RTE_-o .\objects\nano100_uart.o --omf_browse .\objects\nano100_uart.crf --depend .\objects\nano100_uart.d)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include\Nano100Series.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\core_cm0.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AEF5F2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_version.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_compiler.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_armcc.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include\system_Nano100Series.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\sys.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\clk.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\adc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\dac.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\fmc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\ebi.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\gpio.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\i2c.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\crc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\pdma.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\pwm.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\rtc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\sc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\scuart.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\spi.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\timer.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\uart.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\usbd.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\wdt.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\wwdt.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\i2s.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\lcd.h)(0x58EEEAFC)
+I (nano100_uart.h)(0x59D39872)
+F (.\lcd1602.c)(0x59C11CE6)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Users\sheng\Documents\MCU\Nuvoton\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\Jansson\1.0.0\src-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include-D__UVISION_VERSION="516" -D_RTE_-o .\objects\lcd1602.o --omf_browse .\objects\lcd1602.crf --depend .\objects\lcd1602.d)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include\Nano100Series.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\core_cm0.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AEF5F2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_version.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_compiler.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_armcc.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include\system_Nano100Series.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\sys.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\clk.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\adc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\dac.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\fmc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\ebi.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\gpio.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\i2c.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\crc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\pdma.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\pwm.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\rtc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\sc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\scuart.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\spi.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\timer.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\uart.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\usbd.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\wdt.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\wwdt.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\i2s.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\lcd.h)(0x58EEEAFC)
+I (lcd1602.h)(0x59BF811A)
+F (.\nano100_adc.c)(0x59BF81A2)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Users\sheng\Documents\MCU\Nuvoton\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\Jansson\1.0.0\src-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include-D__UVISION_VERSION="516" -D_RTE_-o .\objects\nano100_adc.o --omf_browse .\objects\nano100_adc.crf --depend .\objects\nano100_adc.d)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include\Nano100Series.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\core_cm0.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AEF5F2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_version.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_compiler.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_armcc.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include\system_Nano100Series.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\sys.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\clk.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\adc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\dac.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\fmc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\ebi.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\gpio.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\i2c.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\crc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\pdma.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\pwm.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\rtc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\sc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\scuart.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\spi.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\timer.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\uart.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\usbd.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\wdt.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\wwdt.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\i2s.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\lcd.h)(0x58EEEAFC)
+I (nano100_adc.h)(0x59BE9966)
+F (.\thermistor.c)(0x59C11D56)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Users\sheng\Documents\MCU\Nuvoton\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\Jansson\1.0.0\src-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include-D__UVISION_VERSION="516" -D_RTE_-o .\objects\thermistor.o --omf_browse .\objects\thermistor.crf --depend .\objects\thermistor.d)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include\Nano100Series.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\core_cm0.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AEF5F2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_version.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_compiler.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_armcc.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include\system_Nano100Series.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\sys.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\clk.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\adc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\dac.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\fmc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\ebi.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\gpio.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\i2c.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\crc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\pdma.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\pwm.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\rtc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\sc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\scuart.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\spi.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\timer.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\uart.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\usbd.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\wdt.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\wwdt.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\i2s.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\lcd.h)(0x58EEEAFC)
+I (thermistor.h)(0x59BE99E6)
+I (lcd1602.h)(0x59BF811A)
+F (.\nano100_pwm.c)(0x59CFC8F5)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Users\sheng\Documents\MCU\Nuvoton\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\Jansson\1.0.0\src-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include-D__UVISION_VERSION="516" -D_RTE_-o .\objects\nano100_pwm.o --omf_browse .\objects\nano100_pwm.crf --depend .\objects\nano100_pwm.d)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include\Nano100Series.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\core_cm0.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AEF5F2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_version.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_compiler.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_armcc.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include\system_Nano100Series.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\sys.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\clk.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\adc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\dac.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\fmc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\ebi.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\gpio.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\i2c.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\crc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\pdma.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\pwm.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\rtc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\sc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\scuart.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\spi.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\timer.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\uart.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\usbd.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\wdt.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\wwdt.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\i2s.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\lcd.h)(0x58EEEAFC)
+I (nano100_pwm.h)(0x59CFC73A)
+F (.\nano100_i2c.c)(0x59C46636)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Users\sheng\Documents\MCU\Nuvoton\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\Jansson\1.0.0\src-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include-D__UVISION_VERSION="516" -D_RTE_-o .\objects\nano100_i2c.o --omf_browse .\objects\nano100_i2c.crf --depend .\objects\nano100_i2c.d)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include\Nano100Series.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\core_cm0.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AEF5F2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_version.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_compiler.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_armcc.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include\system_Nano100Series.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\sys.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\clk.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\adc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\dac.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\fmc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\ebi.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\gpio.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\i2c.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\crc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\pdma.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\pwm.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\rtc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\sc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\scuart.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\spi.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\timer.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\uart.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\usbd.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\wdt.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\wwdt.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\i2s.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\lcd.h)(0x58EEEAFC)
+I (nano100_i2c.h)(0x59C1DF28)
+I (lcd1602.h)(0x59BF811A)
+F (.\bh1750.c)(0x59C1E3F8)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Users\sheng\Documents\MCU\Nuvoton\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\Jansson\1.0.0\src-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include-D__UVISION_VERSION="516" -D_RTE_-o .\objects\bh1750.o --omf_browse .\objects\bh1750.crf --depend .\objects\bh1750.d)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include\Nano100Series.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\core_cm0.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AEF5F2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_version.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_compiler.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_armcc.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include\system_Nano100Series.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\sys.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\clk.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\adc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\dac.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\fmc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\ebi.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\gpio.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\i2c.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\crc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\pdma.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\pwm.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\rtc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\sc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\scuart.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\spi.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\timer.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\uart.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\usbd.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\wdt.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\wwdt.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\i2s.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\lcd.h)(0x58EEEAFC)
+I (nano100_i2c.h)(0x59C1DF28)
+I (lcd1602.h)(0x59BF811A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x55AEF5F2)
+F (.\button.c)(0x59C46669)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Users\sheng\Documents\MCU\Nuvoton\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\Jansson\1.0.0\src-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include-D__UVISION_VERSION="516" -D_RTE_-o .\objects\button.o --omf_browse .\objects\button.crf --depend .\objects\button.d)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include\Nano100Series.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\core_cm0.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AEF5F2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_version.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_compiler.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_armcc.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include\system_Nano100Series.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\sys.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\clk.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\adc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\dac.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\fmc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\ebi.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\gpio.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\i2c.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\crc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\pdma.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\pwm.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\rtc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\sc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\scuart.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\spi.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\timer.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\uart.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\usbd.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\wdt.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\wwdt.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\i2s.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\lcd.h)(0x58EEEAFC)
+I (button.h)(0x59C121A4)
+F (.\esp8266.c)(0x59D398C6)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Users\sheng\Documents\MCU\Nuvoton\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\Jansson\1.0.0\src-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include-D__UVISION_VERSION="516" -D_RTE_-o .\objects\esp8266.o --omf_browse .\objects\esp8266.crf --depend .\objects\esp8266.d)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include\Nano100Series.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\core_cm0.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AEF5F2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_version.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_compiler.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_armcc.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include\system_Nano100Series.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\sys.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\clk.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\adc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\dac.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\fmc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\ebi.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\gpio.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\i2c.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\crc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\pdma.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\pwm.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\rtc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\sc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\scuart.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\spi.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\timer.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\uart.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\usbd.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\wdt.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\wwdt.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\i2s.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\lcd.h)(0x58EEEAFC)
+I (esp8266.h)(0x59D35D94)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x55AEF5F2)
+I (nano100_uart.h)(0x59D39872)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x55AEF5F2)
+F (.\keypad.c)(0x59C4664D)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Users\sheng\Documents\MCU\Nuvoton\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\Jansson\1.0.0\src-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include-D__UVISION_VERSION="516" -D_RTE_-o .\objects\keypad.o --omf_browse .\objects\keypad.crf --depend .\objects\keypad.d)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include\Nano100Series.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\core_cm0.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AEF5F2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_version.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_compiler.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_armcc.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include\system_Nano100Series.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\sys.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\clk.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\adc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\dac.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\fmc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\ebi.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\gpio.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\i2c.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\crc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\pdma.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\pwm.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\rtc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\sc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\scuart.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\spi.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\timer.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\uart.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\usbd.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\wdt.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\wwdt.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\i2s.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\lcd.h)(0x58EEEAFC)
+I (keypad.h)(0x59C46718)
+I (lcd1602.h)(0x59BF811A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x55AEF5F2)
+F (.\mqtt.c)(0x59C4663E)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Users\sheng\Documents\MCU\Nuvoton\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\Jansson\1.0.0\src-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include-D__UVISION_VERSION="516" -D_RTE_-o .\objects\mqtt.o --omf_browse .\objects\mqtt.crf --depend .\objects\mqtt.d)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include\Nano100Series.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\core_cm0.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AEF5F2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_version.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_compiler.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_armcc.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include\system_Nano100Series.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\sys.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\clk.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\adc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\dac.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\fmc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\ebi.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\gpio.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\i2c.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\crc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\pdma.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\pwm.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\rtc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\sc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\scuart.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\spi.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\timer.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\uart.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\usbd.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\wdt.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\wwdt.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\i2s.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\lcd.h)(0x58EEEAFC)
+F (.\step_motor.c)(0x59CFBF2A)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Users\sheng\Documents\MCU\Nuvoton\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\Jansson\1.0.0\src-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include-D__UVISION_VERSION="516" -D_RTE_-o .\objects\step_motor.o --omf_browse .\objects\step_motor.crf --depend .\objects\step_motor.d)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include\Nano100Series.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\core_cm0.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AEF5F2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_version.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_compiler.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_armcc.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include\system_Nano100Series.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\sys.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\clk.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\adc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\dac.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\fmc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\ebi.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\gpio.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\i2c.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\crc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\pdma.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\pwm.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\rtc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\sc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\scuart.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\spi.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\timer.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\uart.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\usbd.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\wdt.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\wwdt.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\i2s.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\lcd.h)(0x58EEEAFC)
+I (step_motor.h)(0x59CFBF3A)
+F (.\nano100_spi0.c)(0x59CF83D1)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Users\sheng\Documents\MCU\Nuvoton\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\Jansson\1.0.0\src-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include-D__UVISION_VERSION="516" -D_RTE_-o .\objects\nano100_spi0.o --omf_browse .\objects\nano100_spi0.crf --depend .\objects\nano100_spi0.d)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include\Nano100Series.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\core_cm0.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AEF5F2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_version.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_compiler.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_armcc.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include\system_Nano100Series.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\sys.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\clk.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\adc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\dac.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\fmc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\ebi.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\gpio.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\i2c.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\crc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\pdma.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\pwm.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\rtc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\sc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\scuart.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\spi.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\timer.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\uart.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\usbd.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\wdt.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\wwdt.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\i2s.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\lcd.h)(0x58EEEAFC)
+I (nano100_spi0.h)(0x59CF838B)
+F (.\nrf24l01.c)(0x59CF839E)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Users\sheng\Documents\MCU\Nuvoton\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\Jansson\1.0.0\src-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include-D__UVISION_VERSION="516" -D_RTE_-o .\objects\nrf24l01.o --omf_browse .\objects\nrf24l01.crf --depend .\objects\nrf24l01.d)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include\Nano100Series.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\core_cm0.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AEF5F2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_version.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_compiler.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_armcc.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include\system_Nano100Series.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\sys.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\clk.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\adc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\dac.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\fmc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\ebi.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\gpio.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\i2c.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\crc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\pdma.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\pwm.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\rtc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\sc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\scuart.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\spi.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\timer.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\uart.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\usbd.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\wdt.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\wwdt.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\i2s.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\lcd.h)(0x58EEEAFC)
+I (nrf24l01.h)(0x59CE8B1B)
+I (nano100_spi0.h)(0x59CF838B)
+F (.\cc2541.c)(0x59DBAD17)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Users\sheng\Documents\MCU\Nuvoton\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\Jansson\1.0.0\src-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include-D__UVISION_VERSION="516" -D_RTE_-o .\objects\cc2541.o --omf_browse .\objects\cc2541.crf --depend .\objects\cc2541.d)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include\Nano100Series.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\core_cm0.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AEF5F2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_version.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_compiler.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_armcc.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include\system_Nano100Series.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\sys.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\clk.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\adc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\dac.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\fmc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\ebi.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\gpio.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\i2c.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\crc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\pdma.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\pwm.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\rtc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\sc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\scuart.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\spi.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\timer.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\uart.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\usbd.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\wdt.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\wwdt.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\i2s.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\lcd.h)(0x58EEEAFC)
+I (cc2541.h)(0x59DBA18E)
+I (nano100_uart.h)(0x59D39872)
+I (default.h)(0x59DBA4B8)
+F (.\breathe.c)(0x59C8C943)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Users\sheng\Documents\MCU\Nuvoton\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\Jansson\1.0.0\src-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include-D__UVISION_VERSION="516" -D_RTE_-o .\objects\breathe.o --omf_browse .\objects\breathe.crf --depend .\objects\breathe.d)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include\Nano100Series.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\core_cm0.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AEF5F2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_version.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_compiler.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_armcc.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include\system_Nano100Series.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\sys.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\clk.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\adc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\dac.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\fmc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\ebi.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\gpio.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\i2c.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\crc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\pdma.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\pwm.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\rtc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\sc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\scuart.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\spi.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\timer.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\uart.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\usbd.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\wdt.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\wwdt.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\i2s.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\lcd.h)(0x58EEEAFC)
+I (breathe.h)(0x59C8CD26)
+I (wave.h)(0x59C8CD3E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x55AEF5F2)
+F (.\wave.c)(0x59C8C943)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Users\sheng\Documents\MCU\Nuvoton\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\Jansson\1.0.0\src-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include-D__UVISION_VERSION="516" -D_RTE_-o .\objects\wave.o --omf_browse .\objects\wave.crf --depend .\objects\wave.d)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include\Nano100Series.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\core_cm0.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AEF5F2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_version.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_compiler.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_armcc.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include\system_Nano100Series.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\sys.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\clk.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\adc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\dac.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\fmc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\ebi.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\gpio.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\i2c.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\crc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\pdma.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\pwm.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\rtc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\sc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\scuart.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\spi.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\timer.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\uart.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\usbd.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\wdt.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\wwdt.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\i2s.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\lcd.h)(0x58EEEAFC)
+I (wave.h)(0x59C8CD3E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x55AEF5F2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x55AEF5F2)
+F (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Lib\ARM\arm_cortexM0l_math.lib)(0x58AA9906)()
+F (C:\Keil_v5\ARM\PACK\Keil\Jansson\1.0.0\lib\jansson_CM0LE.lib)(0x5513B7AA)()
+F (RTE\Data_Exchange\jansson_config.c)(0x5513A5C4)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Users\sheng\Documents\MCU\Nuvoton\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\Jansson\1.0.0\src-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include-D__UVISION_VERSION="516" -D_RTE_-o .\objects\jansson_config.o --omf_browse .\objects\jansson_config.crf --depend .\objects\jansson_config.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AEF5F2)
+F (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\adc.c)(0x58EEEAFC)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Users\sheng\Documents\MCU\Nuvoton\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\Jansson\1.0.0\src-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include-D__UVISION_VERSION="516" -D_RTE_-o .\objects\adc.o --omf_browse .\objects\adc.crf --depend .\objects\adc.d)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include\Nano100Series.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\core_cm0.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AEF5F2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_version.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_compiler.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_armcc.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include\system_Nano100Series.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\sys.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\clk.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\adc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\dac.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\fmc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\ebi.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\gpio.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\i2c.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\crc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\pdma.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\pwm.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\rtc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\sc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\scuart.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\spi.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\timer.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\uart.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\usbd.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\wdt.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\wwdt.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\i2s.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\lcd.h)(0x58EEEAFC)
+F (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\clk.c)(0x58EEEAFC)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Users\sheng\Documents\MCU\Nuvoton\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\Jansson\1.0.0\src-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include-D__UVISION_VERSION="516" -D_RTE_-o .\objects\clk.o --omf_browse .\objects\clk.crf --depend .\objects\clk.d)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include\Nano100Series.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\core_cm0.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AEF5F2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_version.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_compiler.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_armcc.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include\system_Nano100Series.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\sys.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\clk.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\adc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\dac.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\fmc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\ebi.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\gpio.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\i2c.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\crc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\pdma.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\pwm.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\rtc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\sc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\scuart.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\spi.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\timer.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\uart.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\usbd.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\wdt.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\wwdt.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\i2s.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\lcd.h)(0x58EEEAFC)
+F (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\gpio.c)(0x58EEEAFC)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Users\sheng\Documents\MCU\Nuvoton\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\Jansson\1.0.0\src-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include-D__UVISION_VERSION="516" -D_RTE_-o .\objects\gpio.o --omf_browse .\objects\gpio.crf --depend .\objects\gpio.d)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include\Nano100Series.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\core_cm0.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AEF5F2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_version.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_compiler.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_armcc.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include\system_Nano100Series.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\sys.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\clk.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\adc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\dac.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\fmc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\ebi.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\gpio.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\i2c.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\crc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\pdma.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\pwm.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\rtc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\sc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\scuart.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\spi.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\timer.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\uart.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\usbd.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\wdt.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\wwdt.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\i2s.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\lcd.h)(0x58EEEAFC)
+F (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\pwm.c)(0x58EEEAFC)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Users\sheng\Documents\MCU\Nuvoton\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\Jansson\1.0.0\src-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include-D__UVISION_VERSION="516" -D_RTE_-o .\objects\pwm.o --omf_browse .\objects\pwm.crf --depend .\objects\pwm.d)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include\Nano100Series.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\core_cm0.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AEF5F2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_version.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_compiler.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_armcc.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include\system_Nano100Series.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\sys.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\clk.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\adc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\dac.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\fmc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\ebi.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\gpio.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\i2c.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\crc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\pdma.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\pwm.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\rtc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\sc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\scuart.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\spi.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\timer.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\uart.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\usbd.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\wdt.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\wwdt.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\i2s.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\lcd.h)(0x58EEEAFC)
+F (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\spi.c)(0x58EEEAFC)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Users\sheng\Documents\MCU\Nuvoton\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\Jansson\1.0.0\src-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include-D__UVISION_VERSION="516" -D_RTE_-o .\objects\spi.o --omf_browse .\objects\spi.crf --depend .\objects\spi.d)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include\nano100series.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\core_cm0.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AEF5F2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_version.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_compiler.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_armcc.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include\system_Nano100Series.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\sys.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\clk.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\adc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\dac.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\fmc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\ebi.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\gpio.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\i2c.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\crc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\pdma.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\pwm.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\rtc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\sc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\scuart.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\spi.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\timer.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\uart.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\usbd.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\wdt.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\wwdt.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\i2s.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\lcd.h)(0x58EEEAFC)
+F (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\sys.c)(0x58EEEAFC)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Users\sheng\Documents\MCU\Nuvoton\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\Jansson\1.0.0\src-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include-D__UVISION_VERSION="516" -D_RTE_-o .\objects\sys.o --omf_browse .\objects\sys.crf --depend .\objects\sys.d)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include\Nano100Series.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\core_cm0.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AEF5F2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_version.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_compiler.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_armcc.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include\system_Nano100Series.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\sys.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\clk.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\adc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\dac.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\fmc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\ebi.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\gpio.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\i2c.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\crc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\pdma.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\pwm.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\rtc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\sc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\scuart.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\spi.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\timer.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\uart.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\usbd.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\wdt.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\wwdt.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\i2s.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\lcd.h)(0x58EEEAFC)
+F (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\timer.c)(0x58EEEAFC)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Users\sheng\Documents\MCU\Nuvoton\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\Jansson\1.0.0\src-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include-D__UVISION_VERSION="516" -D_RTE_-o .\objects\timer.o --omf_browse .\objects\timer.crf --depend .\objects\timer.d)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include\Nano100Series.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\core_cm0.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AEF5F2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_version.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_compiler.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_armcc.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include\system_Nano100Series.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\sys.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\clk.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\adc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\dac.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\fmc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\ebi.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\gpio.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\i2c.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\crc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\pdma.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\pwm.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\rtc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\sc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\scuart.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\spi.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\timer.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\uart.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\usbd.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\wdt.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\wwdt.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\i2s.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\lcd.h)(0x58EEEAFC)
+F (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\uart.c)(0x58EEEAFC)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Users\sheng\Documents\MCU\Nuvoton\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\Jansson\1.0.0\src-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include-D__UVISION_VERSION="516" -D_RTE_-o .\objects\uart.o --omf_browse .\objects\uart.crf --depend .\objects\uart.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x55AEF5F2)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include\Nano100Series.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\core_cm0.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AEF5F2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_version.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_compiler.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_armcc.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include\system_Nano100Series.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\sys.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\clk.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\adc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\dac.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\fmc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\ebi.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\gpio.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\i2c.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\crc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\pdma.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\pwm.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\rtc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\sc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\scuart.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\spi.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\timer.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\uart.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\usbd.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\wdt.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\wwdt.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\i2s.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\lcd.h)(0x58EEEAFC)
+F (RTE\Device\NANO130KE3BN\retarget.c)(0x59BF8EE0)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Users\sheng\Documents\MCU\Nuvoton\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\Jansson\1.0.0\src-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include-D__UVISION_VERSION="516" -D_RTE_-o .\objects\retarget.o --omf_browse .\objects\retarget.crf --depend .\objects\retarget.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x55AEF5F2)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include\Nano100Series.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\core_cm0.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AEF5F2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_version.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_compiler.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_armcc.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include\system_Nano100Series.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\sys.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\clk.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\adc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\dac.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\fmc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\ebi.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\gpio.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\i2c.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\crc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\pdma.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\pwm.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\rtc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\sc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\scuart.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\spi.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\timer.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\uart.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\usbd.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\wdt.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\wwdt.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\i2s.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\lcd.h)(0x58EEEAFC)
+F (RTE\Device\NANO130KE3BN\startup_Nano100Series.s)(0x58EEEAFC)(--cpu Cortex-M0 --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Users\sheng\Documents\MCU\Nuvoton\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\Jansson\1.0.0\src-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include--pd "__UVISION_VERSION SETA 516" --pd "_RTE_ SETA 1"--list .\listings\startup_nano100series.lst --xref -o .\objects\startup_nano100series.o --depend .\objects\startup_nano100series.d)
+F (RTE\Device\NANO130KE3BN\system_Nano100Series.c)(0x58EEEAFC)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Users\sheng\Documents\MCU\Nuvoton\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\Jansson\1.0.0\src-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include-D__UVISION_VERSION="516" -D_RTE_-o .\objects\system_nano100series.o --omf_browse .\objects\system_nano100series.crf --depend .\objects\system_nano100series.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AEF5F2)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include\Nano100Series.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\core_cm0.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_version.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_compiler.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_armcc.h)(0x59840DC6)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Include\system_Nano100Series.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\sys.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\clk.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\adc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\dac.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\fmc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\ebi.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\gpio.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\i2c.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\crc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\pdma.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\pwm.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\rtc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\sc.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\scuart.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\spi.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\timer.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\uart.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\usbd.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\wdt.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\wwdt.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\i2s.h)(0x58EEEAFC)
+I (C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\NANO100BN\Driver\lcd.h)(0x58EEEAFC)

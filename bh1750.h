@@ -1,4 +1,4 @@
 #include "Nano100Series.h"              // Device header
 
-void lcd_print(uint8_t, char*);
-void lcd_init(void);
+uint8_t bh1750_write(uint8_t);
+int bh1750_read(void);
